@@ -1,2 +1,3 @@
-# Project-51
-Part 3 Origami
+# Origami Designs
+
+Learn origami by following pictorial representations and simple explanations !
